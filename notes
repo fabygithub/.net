@@ -7,6 +7,44 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+24-03-2022
+using System;
+
+namespace ProgramaConvert
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Uso de Convert
+
+            // Variables
+            string dato1 = "";
+            string dato2 = "";
+            int valor = 0;
+            double valordecimal = 0.0;
+
+            // Solicitar un número
+            Console.Write("Escriba un número: ");
+            dato1 = Console.ReadLine();
+            valor = Convert.ToInt32(dato1);
+
+            // Solicitar un número con decimales
+            Console.Write("Escriba un número con decimales: ");
+            dato2 = Console.ReadLine();
+            valordecimal = Convert.ToDouble(dato2);
+
+            // Muestre el número en pantalla
+            Console.WriteLine("Su número es {0} y el decimal es {1}", valor, valordecimal);
+
+        }
+    }
+}
+
+
+
+
+
 1-04-2022
 
 using System;

@@ -7,3 +7,51 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+__________________________________________________________________
+
+14-04-2022
+
+using System;
+
+namespace ConvertDolaresPesos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            Desarrollar un programa que nos solicite
+            un valor en pesos chilenos para convertirlos
+            en dólares
+
+            La fórmula para la cantidad de dólares va
+            a ser igual a la división entre la cantidad
+            de pesos y la tasa de cambio
+
+            Valor del dólar = 813,75
+
+            Posteriormente mostrar en pantalla de consola
+            el resultado de la conversión ingresada
+            por el usuario
+            */
+
+            // Declaración de variables
+            string dato = "";
+            double cantDolares = 0.0;
+            double cantPesos = 0.0;
+            double tasaCambio = 813.75;
+
+            // Solicitamos al usuario la cantidad de pesos
+            Console.Write("Escriba la cantidad de pesos: ");
+            dato = Console.ReadLine();
+            cantPesos = Convert.ToDouble(dato);
+
+            // Realizar la conversión
+            cantDolares = cantPesos / tasaCambio;
+
+            // Mostrar los resultados
+            Console.WriteLine("{0} pesos son {1} dólares", cantPesos, cantDolares);
+
+        }
+    }
+}

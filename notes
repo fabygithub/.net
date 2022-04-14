@@ -7,6 +7,60 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+
+7-04-2022
+
+
+using System;
+namespace Rectangulo
+
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Programa que calcule el área y el perimetro
+            // de un rectángulo
+
+            // Declaramos variables
+
+            string dato = "";
+            double ladoA = 0.0;
+            double ladoB = 0.0;
+            double area = 0.0;
+            double perimetro = 0.0;
+
+            // Solicitar lado A
+            Console.Write("Escriba el lado menor: ");
+            dato = Console.ReadLine();
+            ladoA = Convert.ToDouble(dato);
+
+            // Solicitar lado B
+            Console.Write("Escriba el lado mayor: ");
+            dato = Console.ReadLine();
+            ladoB = Convert.ToDouble(dato);
+
+            // Calcular el área
+            area = ladoA * ladoB;
+
+            // Calcular el perimetro
+            perimetro = 2 * (ladoA + ladoB);
+
+            // Mostrar resultados
+            Console.WriteLine("El rectángulo de lados {0} y {1}", ladoA, ladoB);
+            Console.WriteLine("Tiene un área de {0} y un perimetro de {1}", area, perimetro);
+
+
+        }
+    }
+}
+
+
+
+
+
+
+
 __________________________________________________________________
 
 14-04-2022

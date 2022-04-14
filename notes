@@ -7,7 +7,54 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+_____________________________________________________________________________
+03-04-2022
 
+using System;
+
+namespace Ejemplo01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Declaración -> tipo nombre;
+            // Inicialización -> nombre = x;
+            // Asignación -> nombre = y;
+
+            // Declaraciones e inicializaciones
+
+            double impuesto = 1.13;
+            bool encendido = true;
+            char letra = 'B';
+            string palabra = "Hola";
+            int numero = 19;
+
+            // Imprimir en pantalla de consola
+
+            Console.WriteLine("Impuesto = {0}, numero = {1}, Estado de bool = {2}", impuesto, numero, encendido);
+            Console.WriteLine("Se tiene {0} en el bool y se tiene {1} en la letra", encendido, letra);
+            Console.WriteLine("La cadena dice. {0}", palabra);
+
+            // Asignaciones
+
+            encendido = false;
+            letra = '&';
+            impuesto = -387.986;
+            palabra = "Adios";
+            numero = 22;
+
+            Console.WriteLine("Impuesto = {0}, numero = {1}, Estado de bool = {2}", impuesto, numero, encendido);
+            Console.WriteLine("Se tiene {0} en el bool y se tiene {1} en la letra", encendido, letra);
+            Console.WriteLine("La cadena dice {0} y el número que recién asignamos es {1}", palabra, numero);
+
+
+        }
+    }
+}
+
+
+_____________________________________________________________
 10-03-2022
 
 using System;

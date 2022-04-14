@@ -7,6 +7,50 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+
+10-03-2022
+
+using System;
+
+namespace CapturaDatos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Uso de ReadLine
+
+            /*
+             Desarrollar un programa el cual ingresemos
+             nuestro nombre y apellido, para posteriormente
+             saludarnos imprimiendo en pantalla nuestro
+             nombre y apellido
+             */
+
+            // Declaramos variables
+            string nombre = "";
+            string apellido = "";
+
+            // Solicitar el nombre
+            Console.Write("Buen día, por favor ingrese su nombre: ");
+            nombre = Console.ReadLine();
+                        
+            // Solicitar el apellido
+            Console.Write("Por favor ingrese su apellido: ");
+            apellido = Console.ReadLine();
+
+            // Mostrar saludo
+            Console.WriteLine("Hola {1} {0}, mucho gusto", nombre, apellido);
+        }
+    }
+}
+
+
+
+
+
+__________________________________________________________________________________________________
+
 24-03-2022
 using System;
 
@@ -44,7 +88,7 @@ namespace ProgramaConvert
 
 
 
-
+___________________________________________________________________________________________________________
 1-04-2022
 
 using System;
@@ -117,7 +161,7 @@ namespace Calculo2numeros
 
 
 
-
+_______________________________________________________________________________________________________________________________________
 7-04-2022
 
 

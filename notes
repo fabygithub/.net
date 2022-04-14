@@ -36,6 +36,7 @@ namespace ConvertDolaresPesos
             */
 
             // Declaración de variables
+            // dato : ingresar cantidad pesos
             string dato = "";
             double cantDolares = 0.0;
             double cantPesos = 0.0;
@@ -44,14 +45,16 @@ namespace ConvertDolaresPesos
             // Solicitamos al usuario la cantidad de pesos
             Console.Write("Escriba la cantidad de pesos: ");
             dato = Console.ReadLine();
+            //convertir string a double los pesos
             cantPesos = Convert.ToDouble(dato);
 
             // Realizar la conversión
+            // cantPesos dividido tasaCambio
             cantDolares = cantPesos / tasaCambio;
 
             // Mostrar los resultados
             Console.WriteLine("{0} pesos son {1} dólares", cantPesos, cantDolares);
-
+            
         }
     }
 }

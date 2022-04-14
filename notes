@@ -7,6 +7,78 @@ agregar .net
 crear proyecto
 al apretar run aparece un localhost
 
+1-04-2022
+
+using System;
+
+namespace Calculo2numeros
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Realizar la suma, resta, multiplicación o
+            // división de 2 números según lo que elija
+            // el usuario
+
+            // Variables
+
+            string dato = "";
+            double numero1 = 0.0;
+            double numero2 = 0.0;
+            int seleccion = 0;
+            double resultado = 0.0;
+
+            // Solicitar el número 1
+            Console.Write("Escriba el primer número: ");
+            dato = Console.ReadLine();
+            numero1 = Convert.ToDouble(dato);
+
+            // Solicitar el número 2
+            Console.Write("Escriba el segundo número: ");
+            dato = Console.ReadLine();
+            numero2 = Convert.ToDouble(dato);
+
+            // Solicitar la operación
+            Console.WriteLine("Seleccione la operación: ");
+            Console.WriteLine("1. Suma");
+            Console.WriteLine("2. Resta");
+            Console.WriteLine("3. Multiplicación");
+            Console.WriteLine("4. División");
+            Console.WriteLine("¿Qué operación desea realizar?");
+            dato = Console.ReadLine();
+            seleccion = Convert.ToInt32(dato);
+
+            // Operación
+            if (seleccion == 1)
+            {
+                resultado = numero1 + numero2;
+                Console.WriteLine("El resultado es: {0}", resultado);
+            }
+
+            if (seleccion == 2)
+            {
+                resultado = numero1 - numero2;
+                Console.WriteLine("El resultado es: {0}", resultado);
+            }
+
+            if (seleccion == 3)
+            {
+                resultado = numero1 * numero2;
+                Console.WriteLine("El resultado es: {0}", resultado);
+            }
+
+            if (seleccion == 4)
+            {
+                resultado = numero1 / numero2;
+                Console.WriteLine("El resultado es: {0}", resultado);
+            }
+        }
+    }
+}
+
+
+
 
 7-04-2022
 

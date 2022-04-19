@@ -471,7 +471,8 @@ namespace ConsoleApp1
 
 
 
-            Console.WriteLine("elija la opcion ");
+            
+            Console.WriteLine("elija un planeta 1 : mercurio 2 : venus 3 : jupiter ");
              
              dato = Console.ReadLine();
              opcion = Convert.ToInt32(dato);
@@ -503,8 +504,8 @@ namespace ConsoleApp1
             }
 
             // mostrar el peso convertido
-            Console.WriteLine("Tu peso en ese planeta {0}" + pesoPlaneta);
-
+            Console.WriteLine("Tu peso en ese planeta {0} y el pesotierra es {1}" + pesoPlaneta, pesoTierra);
+             
 
 
         }

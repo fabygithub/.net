@@ -504,7 +504,7 @@ namespace ConsoleApp1
             }
 
             // mostrar el peso convertido
-            Console.WriteLine("Tu peso en ese planeta {0} y el pesotierra es {1}" + pesoPlaneta, pesoTierra);
+            Console.WriteLine("Tu peso en ese planeta {0} " , pesoPlaneta);
              
 
 

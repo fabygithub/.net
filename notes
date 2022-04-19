@@ -449,3 +449,67 @@ namespace ConvertDolaresPesos
         }
     }
 }
+___________________________________________________________
+
+19/04/2022
+
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        
+
+        static void Main(string[] args)
+        {
+
+            double pesoPlaneta;
+            int opcion;
+            string dato;
+            double pesoTierra;
+
+
+
+            Console.WriteLine("elija la opcion ");
+             
+             dato = Console.ReadLine();
+             opcion = Convert.ToInt32(dato);
+
+            Console.WriteLine("Escriba su peso en el planeta ");
+
+             dato = Console.ReadLine();
+             pesoPlaneta = Convert.ToDouble(dato);
+
+            Console.WriteLine("Escriba su peso en la tierra ");
+
+            dato = Console.ReadLine();
+            pesoTierra = Convert.ToDouble(dato);
+            
+            
+
+            switch (opcion)
+            {
+                //caso mercurio
+                case 1:
+                    pesoPlaneta = pesoTierra * 0.38;
+                    break;
+                case 2:
+                    pesoPlaneta = pesoTierra * 0.91;
+                    break;
+                case 3:
+                pesoPlaneta = pesoTierra * 0.38;
+                    break;
+            }
+
+            // mostrar el peso convertido
+            Console.WriteLine("Tu peso en ese planeta {0}" + pesoPlaneta);
+
+
+
+        }
+    }
+}
+
+_____________________________________________________________________________________
+

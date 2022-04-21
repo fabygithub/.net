@@ -1,0 +1,12 @@
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.exe
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.deps.json
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.runtimeconfig.json
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.dll
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\bin\Debug\netcoreapp3.1\OperadorLogicoOr.pdb
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.dll
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.pdb
+C:\Users\Adolfo\source\repos\OperadorLogicoOr\OperadorLogicoOr\obj\Debug\netcoreapp3.1\OperadorLogicoOr.genruntimeconfig.cache

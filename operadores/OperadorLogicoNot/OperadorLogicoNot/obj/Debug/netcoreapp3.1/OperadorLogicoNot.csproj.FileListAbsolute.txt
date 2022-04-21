@@ -1,0 +1,13 @@
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.exe
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.deps.json
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.runtimeconfig.json
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.runtimeconfig.dev.json
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.dll
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\bin\Debug\netcoreapp3.1\OperadorLogicoNot.pdb
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.csprojAssemblyReference.cache
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.AssemblyInfoInputs.cache
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.AssemblyInfo.cs
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.dll
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.pdb
+C:\Users\Adolfo\source\repos\OperadorLogicoNot\OperadorLogicoNot\obj\Debug\netcoreapp3.1\OperadorLogicoNot.genruntimeconfig.cache

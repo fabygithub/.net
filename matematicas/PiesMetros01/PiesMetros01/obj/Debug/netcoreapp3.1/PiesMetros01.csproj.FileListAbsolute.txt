@@ -1,0 +1,14 @@
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.exe
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.deps.json
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.runtimeconfig.json
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.runtimeconfig.dev.json
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.dll
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\bin\Debug\netcoreapp3.1\PiesMetros01.pdb
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.csproj.AssemblyReference.cache
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.AssemblyInfoInputs.cache
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.AssemblyInfo.cs
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.csproj.CoreCompileInputs.cache
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.dll
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.pdb
+C:\Users\TALLER 2\Source\Repos\PiesMetros01\PiesMetros01\obj\Debug\netcoreapp3.1\PiesMetros01.genruntimeconfig.cache

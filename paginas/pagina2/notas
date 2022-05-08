@@ -2,11 +2,3 @@
 https://www.youtube.com/watch?v=-k9ds5oKuqE
 5
 
-dotnet new --list
-dotnet new --install DotVVM.Templates::*
-dotnet new mvc --auth Individual -o AspNetCoreTodo
-
-ahora descargar una pantilla
-w3layouts
-
-buscar website

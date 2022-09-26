@@ -1,0 +1,14 @@
+ndg linux unhatched
+
+ip config
+
+ethernet 0
+loopback
+ping
+
+
+cmd
+ping google.com
+ip de google
+
+ps -e

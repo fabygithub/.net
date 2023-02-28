@@ -8,6 +8,25 @@ en controlador
 agregar vista
 agregar vista de razor
 
+5
+
+create a new project
+asp.net web applicattion (Net framework)
+
+project name : Werbsite
+ubication : your choose ubication
+
+empty
+add folders & core references
+mvc
+
+controllers
+add new item
+mvc 5 controller empty
+
+Controllername : HomeController
+
+2
 
 
 
